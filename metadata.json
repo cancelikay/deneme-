@@ -1,0 +1,7 @@
+{
+  "name": "Natural AI Receptionist",
+  "description": "Ultra-realistic AI voice assistant for SIP Trunk handling with human-like speech patterns (fillers, pauses).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
